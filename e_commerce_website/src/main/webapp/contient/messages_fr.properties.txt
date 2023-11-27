@@ -1,0 +1,28 @@
+Home=Bienvenue
+Register=s'enregistrer
+Login=connecter
+All=Tous
+Boards=Cartes
+Kits=Kits
+Sensors=Capteurs
+Orders=Commandes
+Logout=déconnecter
+Languages=Langues
+Name=Nom
+Email=Email
+Password=Mot de passe
+Please Register=enregistrez-vous
+Pease Login=connectez-vous
+Add to cart = Ajouter au panier
+Buy now=Acheter maintenant
+Buy=Acheter
+Date=Date
+Category=Catégorie
+Price=Prix
+Quantity=Quantité
+Cancel=Annuler
+Remove=Supprimer
+All Orders =Toutes les commandes
+Total Price=Prix total
+
+

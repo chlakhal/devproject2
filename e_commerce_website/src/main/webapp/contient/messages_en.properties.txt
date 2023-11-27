@@ -1,0 +1,28 @@
+Home=Home
+Register=Register
+Login= Login                                 
+All= All                           
+Boards= Boards
+Kits= Kits
+Sensors= Sensors                                 
+Orders= Orders
+Logout= Logout 
+Languages= Languages 
+Name=Name
+Email=Email  
+Password= Password 
+Please Register= Please Register 
+Pease Login=  Pease Login
+Add to cart = Add to cart 
+Buy now=Buy now
+Buy= Buy
+Date=  Date
+Category = Category
+Price  =  Price
+Quantity= Quantity 
+Cancel= Cancel
+Remove= Remove  
+All Orders = All Orders   
+Total Price= Total Price
+
+
